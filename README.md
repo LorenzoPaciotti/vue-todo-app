@@ -7,7 +7,9 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 
 # INIZIALIZZAZIONE NUOVO PROGETTO
 vue create vue-todo-app
+
 cd vue-todo-app
 
 npm install -D tailwindcss postcss autoprefixer
+
 npx tailwindcss init -p
